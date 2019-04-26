@@ -17,7 +17,7 @@ import javax.swing.filechooser.FileNameExtensionFilter;
 
 /**
  *
- * @author
+ * @author andri
  */
 public class ImportDatabase extends javax.swing.JFrame {
     // file CSV

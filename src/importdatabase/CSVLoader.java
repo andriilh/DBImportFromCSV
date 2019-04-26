@@ -20,7 +20,7 @@ import org.apache.commons.lang3.StringUtils;
 
 /**
  *
- * @author 
+ * @author andri
  */
 public class CSVLoader {
     // inisialisasi variable
